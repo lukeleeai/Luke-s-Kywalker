@@ -17,7 +17,7 @@ locale                   : "en-US"
 title                    : "Luke's Kywalker"
 title_separator          : "-"
 name                     : "DongHyun Luke Lee"
-description              : "Hello"
+description              : "I'm a Korean high schooler at Hankuk Acadmy of Foreign Studies. I love programming, science, book, and business"
 url                      : "https://pixelai78.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "/Luke-s-Kywalker" # the subpath of your site, e.g. 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -91,7 +91,7 @@ analytics:
 author:
   name             : "DongHyun Luke Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "I'm a Korean high schooler at Hankuk Acadmy of Foreign Studies. I love programming, science, book, and business"
   location         : "South Korea"
   email            : "lukeleeai@gmail.com"
   uri              :
