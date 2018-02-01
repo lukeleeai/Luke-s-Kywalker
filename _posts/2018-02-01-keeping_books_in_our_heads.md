@@ -7,7 +7,7 @@ categories: books
  ![alt text](https://i.imgur.com/09coNyB.jpg "My first book I got impressed by")
  
 
-I was 16 in 2015. At that time, I was working on a business project with four of my friends. It was basically about making SNS we thought would be better than Facebook -- the project idea is too awful to mention. I was in charge of leading the team and developing the android application. One day, one of my teammates recommended the book, '마크 저커버그의 초고속 업무술', saying that it would give me insights into starting a business. It was about Mark Zuckerberg making Facebook, running the company, and chaing the world. In retrospect, the book changed my life. 
+I was 16 in 2015. At that time, I was working on a business project with four of my friends. It was basically about making SNS we thought would be better than Facebook -- the project idea is too awful to mention. I was in charge of leading the team and developing the android application. One day, one of my teammates recommended the book, '마크 저커버그의 초고속 업무술', saying that it would give me insights into starting a business. It was about Mark Zuckerberg making Facebook, running the company, and changing the world. In retrospect, the book changed my life. 
 
 I barely remember the whole content of the book. However, I definitely learned a lesson from Mark Zuckerberg's attitude toward money and vision. His pure love for his vision rather than money excited my passion to change the world. Yes, I remember it was a watershed moment for my life to dream of "changing the world". 
 
