@@ -1,6 +1,6 @@
 ---
-title: "Keeping Books in My Head"
-date: 2018-02-01 13:09:28 -0400
+title: "Keeping Books in Our Heads"
+date: 2018-02-01 14:15:28 -0400
 categories: books
 ---
  
@@ -19,14 +19,3 @@ Yes, it sounds wonderful. However, the problem is that I don't remember them tha
 
 
 I hope you earn inestimable lessons from books. 
-
-
-
-
-
-
-
-
-
-
-
