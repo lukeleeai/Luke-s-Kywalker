@@ -1,1 +1,1 @@
-# Luke's Kywalker(Deep Learning, Startup, Book, etc.)
+# Blog "Luke's AI Looks High"
